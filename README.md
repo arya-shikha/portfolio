@@ -12,7 +12,7 @@ If you like this repo, be sure to ⭐ it.
 
 In this repo i have created single page website that contain Home, About, Photos and Contact section. Also it is completely responsive for small screen devices.
 
-#Screenshorts
+# Screenshorts
 
 ![Portfolio caputure 2](https://github.com/arya-shikha/portfolio/assets/95076493/f5a42632-ee75-4a72-87ff-13d4e8dfab90)
 
